@@ -1,0 +1,7 @@
+streamlit==1.22.0
+streamlit-webrtc==0.44.4
+opencv-python-headless==4.5.5.64
+tensorflow==2.16.1
+numpy
+gdown
+av
