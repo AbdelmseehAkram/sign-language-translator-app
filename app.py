@@ -81,4 +81,4 @@ ctx = webrtc_streamer(
     async_processing=False,  # Disabled async processing to avoid issues
 )
 st.markdown("---")
-st.markdown("Developed with ❤️ by [SilentTalkers Team](file:///C:/Users/dell/OneDrive/Desktop/sign%20language%20translator/team.html)")
+st.markdown("Developed with ❤️ by [SilentTalkers Team](https://github.com/AbdelmseehAkram/sign-language-translator-app/blob/main/team.html)")
