@@ -80,3 +80,5 @@ ctx = webrtc_streamer(
     media_stream_constraints={"video": True, "audio": False},
     async_processing=False,  # Disabled async processing to avoid issues
 )
+st.markdown("---")
+st.markdown("Developed with ❤️ by [SilentTalkers Team](file:///C:/Users/dell/OneDrive/Desktop/sign%20language%20translator/team.html)")
